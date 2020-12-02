@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+}
+
+/* top */
+.heading {
+  background-color: #f8f7de;
+}
+
+a {
+  font-size: 6rem;
+  text-decoration: none;
+  color: black;
+  padding: 0 9%;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+
+.home {
+  padding-left: 15px;
+}
+.search{
+padding-left: 50px;
+}
+.plane {
+padding-left: 50px;
+}
+
+/* middle */
+.middle {
+  color: red;
+  margin: 850px auto;
+  text-align: center;
+  font-size: 3rem;
+}
+
+/* bottom */
+.footing {
+  text-align: center;
+  background-color: #f8f7de;
+}
+
+.bottom {
+padding: 40px;
+}
